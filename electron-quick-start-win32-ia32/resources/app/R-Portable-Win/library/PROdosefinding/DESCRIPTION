@@ -1,0 +1,18 @@
+Package: PROdosefinding
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person("firstname", "lastname", , "your@email.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: What license is it under?
+Imports: config (>= 0.3.2), golem (>= 0.4.1), shiny (>= 1.8.0)
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2024-03-23 14:15:39 UTC; admin
+Author: firstname lastname [aut, cre]
+Maintainer: firstname lastname <your@email.com>
+Built: R 4.2.0; ; 2024-03-23 14:15:51 UTC; windows
